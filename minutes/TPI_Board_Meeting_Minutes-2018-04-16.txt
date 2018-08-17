@@ -1,0 +1,20 @@
+Tor Board Meeting Minutes for April 16, 2018
+
+Phone/Video Meeting called to order at 16 UTC
+
+Present: Shari Steele, Matt Blaze, Ramy Raoof, Cindy Cohn, Linus
+Nordberg, Biella Coleman, Nick Mathewson, Julius Mittenzwei, Megan
+Price, and Roger Dingledine
+
+1. Discussion and Vote for Executive Director Position
+
+– Discussion about the two candidates. Decision to offer the ED
+  position to Isabela Bagueros
+
+– Cindy moved motion to extend the offer of Tor’s next ED to Isabela
+  Bagueros, Biella seconded, all voted in favor.
+
+– Discussion about next steps. Julius and Biella volunteered to
+  contact Isabela and discuss next steps.
+
+– Meeting adjourned at 17 UTC.

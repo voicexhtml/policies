@@ -1,0 +1,24 @@
+Tor Board Meeting Minutes for Sept 12, 2017
+
+Conference meeting called to order at 12:00 eastern/9:00 pacific/14:00
+UTC
+
+Present: Shari Steele, Matt Blaze, Cindy Cohn, Megan Price, Bruce
+Schneier, Linus Nordberg, Biella Coleman, Nick Mathewson and Roger
+Dingledine
+
+1. Discuss candidates for Tor Board
+
+2. Vote to invite Ramy Raoof and Julius Mittenzwei to join the Tor
+Board
+
+– Biella moved the motion, Matt seconded, all voted in favor.
+
+3. Amendment to invite board members for one year, effective at the
+Tor Board Meeting in Montreal or the day after if they can’t attend.
+
+– Cindy moved the motion, Biella seconded, all voted in favor.
+
+4. Biella volunteered to contact the invited candidates.
+
+Meeting adjourned at 12: 25 eastern / 9:25 pacific/16:25 UTC

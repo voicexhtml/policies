@@ -1,0 +1,107 @@
+Tor Board Meeting Minutes for December 5, 2016 
+
+Phone/video conference meeting called to order at 13:00 eastern/10:00
+pacific/18:00 PM UTC
+
+Present: Shari Steele, Matt Blaze, Cindy Cohn, Megan Price, Bruce
+Schneier, Linus Nordberg, Biella Coleman, Nick Mathewson and Roger
+Dingledine
+
+1. Approved last meeting minutes
+
+– Matt moved the motion, Megan seconded, all voted in agreement.
+
+2. Tor update from Shari Steele
+
+Personnel changes:
+
+– Tor is switching contractor positions to full time employees; thus
+  far four Tor contractors have been made employees, which provides
+  full benefits.
+
+– The main challenge for the switch is coordinating international
+  payments.
+
+– Tor has hired a chief financial officer.
+
+– Overview about end of the year fund-raising.
+  
+3. Establishment of date/procedure for review of Shari Steele by board
+
+– Shari Steele will send the board material needed for her evaluation
+  by February 6, 2017.
+
+– Cindy Cohn will reach out to Roger and Nick to get a list of people
+  to interview.
+
+– Board will meet via conference/video call on February 14 at 12:00 pm
+  eastern/9:00 am pacific/17:00 UTC.
+
+4. Amsterdam Tor meeting logistics
+
+– Coordinated dates for the open board meeting to be held on March 24,
+  2017 in the morning. A closed board meeting will be held later that
+  day.
+
+5. New Bylaws
+
+– Discussion about the changes to the bylaws.
+
+– Main changes:
+
+a) the fiscal year will begin on the first day of July and end on the
+last day of June.
+
+b) there are various places where chair of the board replaced the
+president position.
+
+c) there is a more accurate description of the executive director role.
+
+d) there is a new clause about having a board emeritus position.
+
+e) the positions of president, vice president, chief financial
+officer, and executive director were added as officers.
+ 
+– Suggested we remove “Executive Director” from the following clause
+  “section: 9.4, EXECUTION OF DOCUMENTS. Except as otherwise provided
+  by law, the Board of Directors or these By-Laws, the Executive
+  Director.”
+
+– Matt moved the motion to accept new bylaws with modification in the
+  9.4 section, Megan seconded and all voted in favor of new bylaws.
+
+RESOLVED: board has ratified new bylaws.
+ 
+6. Tor Finances 
+
+– Shari provided an overview of the state of Tor finances, which are
+  sound.
+
+– End of year budget is not ready yet but will be before the end of
+  2016 and will be sent to board.
+
+7. Strategic Planning
+
+– Shari explained why she should would like to have Tor, her team, and
+  the board set priorities for the future of Tor, as there are a
+  number of possible directions the project can go, especially as more
+  organizations like banks are adopting it.
+
+– Shari explained that she and her staff will come up with various
+  proposals for how move forward.
+
+– Discussed the need to come up with a process to consult the
+  community.
+
+– Cindy suggested that Shari come up with some proposals by February
+  6, 2017 so the board/Shari has something to present at the open Tor
+  meeting in Amsterdam.
+
+– Nick briefly mentioned the need to also devise strategic planning
+  for the technology side of the project.
+
+8. Executive members only meeting session
+
+ - No board action taken
+
+Meeting adjourned at 15:10 eastern.

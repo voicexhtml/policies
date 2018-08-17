@@ -1,0 +1,67 @@
+Tor Board Meeting Minutes for September 29, 2016, #1
+
+In person and public meeting called to order at 10:20 AM Pacific Time
+at the Tor Developer Meeting in Seattle, Washington.
+
+Present: Shari Steele, Matt Blaze, Megan Price, Linus Nordberg, Biella
+Coleman, Roger Dingledine, Nick Mathewson and many Tor Dev meeting
+attendees
+
+1. Introductions of the New Board
+
+2. Explanation of Board Duties, Responsibilities and Limits
+
+– Not involved in day to day operations of Tor Inc.
+
+– There to ensure that legal and financial requirements are in order
+  and met.
+
+– Ensure separation between operational staff and board.
+
+3. Introductions of Tor Dev Participants
+
+4. Board Business and Voting
+
+a) Established Quorum for Voting
+
+b) Board Emeritus Category
+
+– New category to recognize the work of ex-board members and be able
+  to consult them if needed.
+
+– Megan introduces the motion for establishing an emeritus category,
+  Biella seconds and all present vote in favor.
+
+RESOLVED: Board emeritus role established.
+
+c) Addition of President and Vice-president Roles
+
+– Matt explains the reasoning behind the position.
+
+– They are both officers of the corporation and members of the staff
+  that report to the Executive Director and work collaboratively with
+  the Board of Directors.
+
+– Both positions provide organizational leadership to the organization
+  and advise the Executive Director on fiscal, operational,
+  fundraising, marketing, human resource, technology and programmatic
+  strategies as requested.
+
+– These roles were created to ensure continuity between the past board
+  and the present one but also keep operational roles separate from
+  board member roles and duties.
+
+– Linus read and put forward motion to approve Roger Dingledine as
+  President of Tor, Inc. Megan seconded, and all present voted in
+  favor.
+
+RESOLVED: Roger Dingledine voted in as President of Tor, Inc.
+
+– Linus read and put forward motion to approve Nick Mathewson for
+  Vice-President. Biella seconded. All present voted in favor.
+
+RESOLVED: Nick Mathewson voted in as Vice-President of Tor, Inc.
+
+5. Community Question and Feedback Period
+
+Meeting adjourned at 12:00 PM

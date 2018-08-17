@@ -1,0 +1,79 @@
+Tor Board Meeting Minutes for September 29, 2016, #2
+
+Closed Tor Board meeting called to order at 18:15 PM Pacific Time at
+Shari Steele's house.
+
+Present: Shari Steele, Matt Blaze, Megan Price, Linus Nordberg, Biella
+Coleman, Roger Dingledine, and Nick Mathewson
+
+1. Wendy Seltzer Proposed as Agent of the Board in Massachusetts
+
+– Shari explained why we need someone to receive documents and
+  “faithfully tells us what she received” and proposed Wendy Seltzer.
+
+– Matt moved the motion, Megan seconded and all present voted in
+  favor.
+
+RESOLVED: Wendy Seltzer appointed as agent of the board in
+Massachusetts.
+
+2. Specify the Ex-board Members to be Granted Emeritus Status: Julius
+Mittenzwei, Wendy Seltzer and Ian Goldberg
+
+– Matt moved the motion specifying Julius, Wendy, and Ian be appointed
+  as emeritus board members. Linus seconded, and all present voted in
+  favor.
+
+RESOLVED: Julius Mittenzwei, Wendy Seltzer and Ian Goldberg appointed
+as emeritus board members.
+
+3. Timing for Next Tor Survey
+
+– Shari explained that Sue Gardner has offered to run next survey.
+
+– Board discussion about timing and best method to harvest best
+  possible questions.
+
+– Agreement that it is best to wait at least another 6-9 months before
+  administering a new survey given all the recent changes but we
+  should move in about 3-6 months to start planning the survey
+  questions.
+
+– Biella and Megan volunteered to help with survey.
+
+4. Bylaws Amendments
+
+– Move to discuss the new bylaws and changes to email so we can vote
+  on them during our next board meeting.
+
+– Documents need to be sent to Roger and Nick.
+
+5. Shari Steele Executive Director Review
+
+– We discussed the best time for board to review Shari Steele.
+
+– Matt moves a motion that the ED formal evaluation take place as soon
+  as a practical, soon after the fiscal year in Jan. Megan seconded
+  and all there voted in favor.
+
+RESOLUTION: Formal Evaluation will occur in January 2017.
+
+6. Motion to Approve Last Meeting Minutes
+
+– Matt moved the motion, Megan seconded, all voted in favor.
+
+RESOLUTION: Meeting minutes approved.
+
+7. Secondary Financial Approval Thresholds
+
+– Currently any transaction over $5,000 needs two approvals. Shari
+  explained why this was too low, proposed we move that amount to
+  $15,000.
+
+– Motion to make this change proposed by Matt, seconded by Megan and
+  all voted in favor.
+
+RESOLVED: Second official to approve financial transaction only needed
+when amount is over $15,000.
+
+Meeting adjourned at  19:00 PM

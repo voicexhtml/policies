@@ -1,0 +1,109 @@
+Tor Board Meeting Minutes for October 12, 2017
+
+In person meeting called to order at 8:10 am eastern/12:10 UTC in
+Montreal.
+
+Present: Shari Steele, Matt Blaze, Cindy Cohn, Linus Nordberg, Biella
+Coleman, Nick Mathewson, and Julius Mittenzwei. Video call in: Megan
+Price, Bruce Schneier, and Ramy Raoof.
+
+Brad Parker present to report on financial information. Roger
+Dingledine absent.
+
+1. Administrivia
+
+– Introductions of new board members, Ramy Raoof and Julius
+  Mittenzwei.
+
+– Approval of two sets of previous minutes.
+
+a) Minutes from June 12, 2017: Cindy moved the motion, Matt seconded,
+all voted in favor.
+
+b) Minutes from September 12, 2017: Cindy moved motion, Matt seconded,
+all voted in favor.
+
+RESOLVED: minutes from June 12 and September 12, 2017 approved.
+
+– Linus raised a concern about being the sole administrator of the Tor
+  Board email list, which is a problem during periods when he
+  travels. Julius volunteered to also be an administrator.
+
+– Biella updated the board about the report she will be writing with
+  Linus and Julius about the activities accomplished by the board in
+  the last year.
+
+– Shari made a request to add relevant policy/resolution sections to
+  the minutes. Biella agreed to include them.
+
+2. Finances
+
+a)  Amend disbursement approval 
+
+– Shari explained why this would facilitate payment to contractors.
+
+– Matt: moved the motion to approve the language as appears in the
+  board book, Cindy seconded and all voted in favor.
+
+RESOLVED: Acceptance of the following policy: “If a transaction is to
+pay a regular monthly contractor who is submitting several monthly
+bills at the same time, no second approval is required if each of the
+bills is less than $15,000. Furthermore, for transactions to pay
+regular monthly contractors, one of those approvals may be provided by
+the contractor's project lead.”
+
+b) Finances, current and 6 month fiscal year budget overview
+
+– Cindy requested a financial quarterly report that also included an
+  estimated projection and status of grant spending, and Brad reported
+  he could provide it.
+
+– Cindy requested a presentation about how government funding
+  works. Brad agreed to do this at the next meeting.
+
+– Shari provided an update about new and forthcoming grants.
+
+c) Board resolution to accept policy concerning immediate liquidation
+of stock (see Appendix).
+
+– Cindy moved the motion, Biella seconded, all voted in favor.
+
+RESOLVED: Policy concerning immediate liquidation of stock accepted.
+
+d) Discussion whether to add more signatories to the brokerage account
+
+– No addition of any new signatories.
+
+– Shari and Cindy who the board had voted in the past to be brokerage
+  account signatories had to sign documents, and Biella signed as the
+  clerk but was not added to the brokerage account.
+
+Board closed session 
+
+Meeting adjourned 10:03 am eastern /14:03 UTC
+
+Appendix
+
+TOR PROJECT, INC.
+POLICY STATEMENT
+ACCEPTANCE OF DONATED STOCK / MARKETABLE SECURITIES
+
+Whereas neither the members of the Tor Project, Inc. (TPI) board of
+directors nor its senior staff are professional investment portfolio
+managers, it is the policy of this organization to liquidate donated
+stock and other marketable securities immediately upon receipt.
+
+The possible transaction cost of this sale is considered small
+compared to the risk of loss that can be experienced with delay in the
+sale of the stock.
+
+This policy should be communicated to the potential donor to ensure
+the donor will not be surprised or offended at the immediate
+liquidation of the gift.
+
+An investment account will be maintained with a minimum balance of
+cash as required to facilitate the donation of marketable securities
+to TPI and liquidation of the securities.  The maintenance of this
+account to accommodate these transactions is the responsibility of the
+executive director in conjunction with the finance committee of this
+organization.

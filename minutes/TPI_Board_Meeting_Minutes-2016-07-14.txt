@@ -1,0 +1,87 @@
+Tor Board Meeting Minutes for July 14, 2016 
+
+Phone/Video Conference Meeting called to order at 1:00 EDT/10:00 PDT
+
+Present: Shari Steele, Matt Blaze, Cindy Cohn, Megan Price, Bruce
+Schneier, Linus Nordberg, Biella Coleman
+
+1. Tor update from Executive Director
+
+- Shari provides an overview of the state or Tor, including budgetary
+  state of things, what she has accomplished since taking the position
+  of ED, and what is pending in the near future.
+
+2. Introductions
+
+- New board members introduce themselves.
+
+3. Discussion and Voting for Board Positions
+
+- Description of duties.
+
+- There is some confusion as to whether the Executive Director can be
+  the President. Cindy volunteers to inquire.
+
+- Biella self-nominates for Clerk, Bruce moves to accept, Matt
+  seconds. Unanimous vote.
+
+- Matt self-nominees for Chair, Megan moved and Bruce
+  seconded. Unanimous vote.
+
+- Cindy self-nominates for treasurer. Not sure who moved, Biella (and
+  believe others seconded) unanimous vote.
+
+RESOLVED: Clerk, Chair, and Treasurer positions have been
+filled. President position pending.
+
+4. Discussion of New TPI Policies
+
+- Shari had pre-circulated TPI Employee Communications Policy,
+  Harassment Prevention Policy, Internal Complaint Review Policy, and
+  Relationships Policy. The Board discussed the documents. Shari
+  explains the difference between TPI and the broader community
+  project. She provides an overview of the Community Council who are
+  working on their Community Code of conduct.
+
+Bruce Schneier leaves call
+
+5. Email Vote Procedure
+
+- Since most members of the board are unable to closely read the four
+  policy documents, Matt puts forward a motion to vote via email after
+  we had a chance to read them more closely. Cindy adds that we should
+  all include in our emails that we have consented to vote and since
+  Bruce is not there, he will be contacted to see if he was in favor
+  of this procedure. Everyone else is in favor.
+
+Meeting adjourned 14:52 EDT
+
+Minutes Addendum
+
+1. TPI Email Policy Vote
+
+- Shari sent the board the final four TPI policies for vote via email
+  on July 15, 2016. Bruce had been contacted and gave his consent to
+  move forward by email vote.
+
+- Everyone voted to allow for the vote and to approve the four
+  policies.
+
+RESOLVED: Board passes TPI Employee Communications Policy, Harassment
+Prevention Policy, Internal Complaint Review Policy, and Relationships
+Policy.
+
+2. President Position Discussed and Vote
+
+- Cindy confirmed via email on July 15, 2016 that Shari Steele can
+  assume the role of President of Tor even if she's not on the
+  board. She double checked with EFF's nonprofit attorney who
+  consulted with Massachusetts law.
+
+- Cindy moved to name Shari Steele as President of Tor. Matt consented
+  to an email vote, seconded, and voted in favor. Bruce, Megan, Cindy,
+  Biella consented to an email vote and voted in favor of the
+  motion. Linus consented to vote and abstained from voting since it
+  was unclear to him what the role of the president is.
+
+RESOLVED: Board elects Shari Steele as President.

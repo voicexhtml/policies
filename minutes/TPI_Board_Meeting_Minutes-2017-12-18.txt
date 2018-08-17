@@ -1,0 +1,34 @@
+Tor Board Meeting Minutes for December 18, 2017
+
+Phone/Video Conference Meeting called to order at 16:00 UTC.
+
+Present: Shari Steele, Matt Blaze, Ramy Raoof, Cindy Cohn, Linus
+Nordberg, Biella Coleman, Nick Mathewson, Julius Mittenzwei, Megan
+Price, Bruce Schneier.
+
+1. Administrivia
+
+– Approval of October 12, 2017 Minutes. Matt moved the motion, Linus
+  seconded, all voted in favor.
+
+RESOLVED: minutes from October 12, 2017 approved.
+
+2. Finances
+
+– Shari provided an overview of the end of the year campaign.
+
+– Shari provided overview of the finances.
+
+– Shari explained why the professional fees are higher than originally
+  budgeted: Tor is funding a bug bounty program and OTF is hopeful
+  they may be able to fund this program in the future.
+
+– Shari provided an update about new and forthcoming grants.
+
+– Shari provided an update about the tax audit. Tor will be turning in
+  a draft IRS return prepared by the auditor at the end of December.
+
+– Shari has taken over the 2016 audit and informed the board that
+  we're looking for a new finance officer.
+
+Meeting adjourned early due to connection problems at 16:48 UTC

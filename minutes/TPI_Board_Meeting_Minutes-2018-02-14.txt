@@ -1,0 +1,48 @@
+Tor Board Meeting Minutes for February 14 2018
+
+Video/Phone Conference Meeting called to order at 16:00 UTC.
+
+Present: Shari Steele, Matt Blaze, Ramy Raoof, Cindy Cohn, Linus
+Nordberg, Biella Coleman, Nick Mathewson, Julius Mittenzwei, Megan
+Price, Bruce Schneier, Roger Dingledine.
+
+I. Administrivia
+
+– Approval of December 18, 2017 Minutes, amended to add the ending
+  time: 16:48 UTC. Matt moved the motion, Linus second, all voted in
+  favor.
+
+RESOLVED: minutes from December 18, 2017 approved. 
+ 
+2. Finances
+
+– Shari provided an update about status of current audit process,
+  taxes, and budgets.
+
+– Board will receive 990 to review and approve in the new few weeks.
+
+– Shari provided a review (and chart) of the individual contributions
+  we received throughout the year, including during the end-of-year
+  campaign. We raised $394,188.31 in individual donations in 2017
+  (which Mozilla has matched).
+
+– Donations in 2017, especially in the last three months, are higher
+  than in previous three years. Shari still recommended hiring a
+  development team.
+
+– Shari went through the budget, numbers, forthcoming and grants in
+  process.
+
+3. Discussion of Personnel Issues
+
+– Shari provided overview of new finance officer and status of
+  personnel.
+
+4. Discussion of Tor Board Rome Meeting Logistics
+
+– Will likely hold closed board meeting on February 12 after the day’s
+  meetings.
+
+– Open board meeting will be on February 13 at 11:30.
+
+Meeting Adjourned at 18:40 UTC

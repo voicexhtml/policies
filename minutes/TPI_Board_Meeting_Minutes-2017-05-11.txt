@@ -1,0 +1,68 @@
+Tor Board Meeting Minutes for May 11, 2017
+
+Phone/video conference meeting called to order at 13:00 eastern/10:00
+pacific/18:00 UTC
+
+Present: Shari Steele, Matt Blaze, Cindy Cohn, Linus Nordberg, Biella
+Coleman, Nick Mathewson, and Roger Dingledine
+
+1. Administrivia
+
+– The last minutes included in the board book were from the
+  non-official board meeting in Amsterdam so Biella volunteered to
+  send the minutes from last official meeting in December for email
+  approval.
+
+– Roger and Linus confirmed that documents like financial statements
+  and bylaws have been posted online.
+
+– Biella gave update about Boston Museum of Science and their interest
+  in working on an exhibition with Tor.
+
+2. Shari Steele Review
+
+– Process has been completed
+
+– Matt and Cindy will touch base to finalize report and then send a
+  version to Shari, and set up call.
+
+3. Personnel Update
+
+– Shari gave an update about new hires (new writer and editor) and
+  ongoing searches (Communication Director) and other future
+  development hires.
+
+4.  Other Updates
+
+– Shari provided update on potential future projects with
+  Mozilla. Still in the discussion stage.
+
+5. Financial Overview
+
+– Reviewed the 2016 finance numbers. Not fully accurate as there is
+  still some outstanding billing.
+
+– Went over future/upcoming Tor Budget for July 1 2017 to June 30
+  2018. According to Shari, it is a conservative estimate as she is
+  still figuring out Tor’s financial patterns.
+
+– Cindy: moved a motion to pass the budget as included in board
+  book. Matt seconded. All voted in favor.
+
+RESOLVED: board has ratified new budget.
+ 
+6. Board Expansion
+
+– Preliminary discussion on process, number of people, and priorities.
+
+– Shari offered to send us list of potential people that had been
+  considered in past.
+
+7. Strategic Planning Update
+
+– Shari is trying to find strategic planner with experience in open
+  source projects and companies.
+
+– Waiting to hear back from Sue Gardner about recommendations.
+
+Meeting adjourned at 2:56 eastern, and  11:56 pacific, 18:56 UTC

@@ -1,0 +1,59 @@
+Tor Board Meeting Minutes for March 12 2018
+
+In Person and Phone Meeting in Rome called to order at 16:00 UTC
+(17:00 Local Rome time)
+
+Present: Shari Steele, Matt Blaze, Ramy Raoof, Cindy Cohn, Linus
+Nordberg, Biella Coleman, Nick Mathewson, Julius Mittenzwei, Megan
+Price, Roger Dingledine.
+
+1. Administrivia
+
+– Approval of February 14, 2018 minutes. Cindy moved the motion, Ramy
+  seconded, all voted in favor.
+
+RESOLVED: minutes from February 14, 2018 approved. 
+
+2. Executive Director Search
+
+– Shari and search committee members provided an update about the ED
+  search.
+
+– Board discussed and worked out a process and time line for moving
+  forward.
+
+3. Board Members
+
+– Discussion about adding new board members. Cindy and Ramy will reach
+  out to a potential candidate.
+
+– Discussion to add Shari Steele to board once she has finished her
+  position as ED.
+
+– Matt moved motion, Biella seconded, all voted in favor: effective
+  the moment after Shari tenure as ED ends that she be made member of
+  the board for a full year term.
+
+RESOLVED: Shari Steele will join Tor Board once her tenure as ED is
+over.
+
+4. Discussion of Tor Open Board Meeting 
+
+– Outlined a plan for our open board meeting.
+
+5.  Discussion to publish minutes
+
+– Cindy moved motion, Julius seconded, all voted in favor: Board will
+  retroactively publish minutes from the August 16 2016 meeting and
+  moving forward will publish board meeting minutes following
+  official, final approval at the subsequent board meeting.
+
+RESOLVED: Board will publish current minutes following approval and
+will publish previous minutes from the start of this current boards
+tenure.
+
+6. Finances
+
+– Brief overview of finances, grants, and taxes
+
+Meeting Adjourned at 18:26 UTC (19:26 local time).

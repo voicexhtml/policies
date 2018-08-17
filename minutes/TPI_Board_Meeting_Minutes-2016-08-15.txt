@@ -1,0 +1,98 @@
+Tor Board Meeting Minutes for August 15, 2016 
+
+Phone/Video Conference Meeting called to order at 1:00 EDT/10:00 PDT
+
+Present: Shari Steele, Matt Blaze, Cindy Cohn, Megan Price, Bruce
+Schneier, Linus Nordberg, Biella Coleman, Nick Mathewson and Roger
+Dingledine
+
+1. Approved Last Meeting Minutes
+
+2. Discussion about President and Vice-President Roles and whether
+Roger and Nick should occupy them.
+
+– Discussion about the role of President and Vice-President for Tor.
+
+– Agreement that Roger and Nick would make ideal candidates for these
+  non-board positions in order to provide institutional memory and
+  have other members of the Tor project who can handle/approve
+  financial transactions.
+
+– Cindy proposed to move forward by having Shari, Roger, and Nick
+  write clear job descriptions for these roles which will be
+  circulated in the next few weeks so board members can provide input.
+
+– We will vote over this matter in the September meeting.
+
+Nick leaves call around 13:40 eastern.
+ 
+3. Discussion about protocols for the Board to engage with the wider
+Tor community and receive feedback from them.
+
+– Affirmed the importance of hosting face to face meetings during the
+  annual developer/community meetings where attendees can go to the
+  meetings.
+
+– Biella offered a proposal to write and release a yearly report that
+  provides an overview about what the board accomplished in the last
+  year. Since there was a lot of support for the idea, Biella also
+  agreed to take on the project.
+
+4. Tor Update from Executive Director
+
+– Shari provided update about legal matters.
+
+– Shari provided an overview of Tor's finances.
+
+– Shari explained that she will be circulating the 990 form to the
+  board and we will have a week to look over the numbers
+
+– Discussion and agreement that our treasurer, Cindy Cohn, should be
+  the member of the board to sign off on the 990 with input from the
+  board.
+
+5. Bank and Investment Account
+
+– Shari explained the importance of having a board member authorized
+  to have access to bank accounts.
+
+– Board discusses and suggests our treasurer Cindy for the role.
+
+– Cindy puts forward motion, Matt seconds, all are in agreement.
+
+RESOLVED: Cindy Cohn has been authorized as Tor Inc Board member with
+access to financial bank accounts.
+
+– Shari explains why Tor Inc., should have an investment account so as
+  to be able to accept stock donations from a class of
+  donors. Everything is set up with Merrill Lynch for an account
+  (document was pre-circulated) and all is needed is board approval.
+
+– Matt moves a motion that the Tor Inc organization authorizes the
+  establishment of a Cash Securities Account with Merrill Lynch. Cindy
+  seconded and everyone was in support.
+
+RESOLVED: Tor Inc. now has a Cash Securities Account with Merrill Lynch.
+
+6. Seattle September Tor Meeting Logistics
+
+– We determined to have an open board meeting September 29th from 10
+  AM to 12 PM.
+
+– We will hold a board only meeting in the early evening.
+
+7. Additional Agenda Items
+
+– Returned to discussion on how board members should receive feedback
+  and agreed we should have Tor email addresses.
+
+– Discussed how to ensure Tor Board independence. Matt proposed we
+  hold executive members only meeting without officers.
+
+Biella left at 15:08
+
+8. Executive Members only meeting session
+
+- No board action taken
+
+Meeting adjourned at 15:18
