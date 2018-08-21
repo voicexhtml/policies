@@ -1,0 +1,60 @@
+﻿Tor Board Meeting Minutes for June 20, 2018
+
+Phone/Video Meeting called to order at 16:00 UTC
+
+Present: Shari Steele, Matt Blaze, Ramy Raoof, Cindy Cohn, Linus
+Nordberg, Biella Coleman, Nick Mathewson, Julius Mittenzwei, Megan
+Price, and Roger Dingledine
+
+1. Administrivia
+
+– Approval of April 16, 2018 minutes. Matt moved the motion, Megan
+  seconded, all voted in favor.
+
+RESOLVED: minutes from April 16, 2018 approved.
+
+– Approval of March 12, 2018 minutes with amended time from 17:00
+  UTC/16:00 Rome to 16:00UTC/ 17:00 Rome time. Biella moved the
+  motion, Matt seconded, all voted in favor.
+
+RESOLVED: minutes from March 12, 2018 approved.
+
+– Discussed potential dates for Mexico City Board meeting with current
+  proposal being: October 1st closed meeting and October 2nd in the
+  morning for the open meeting.
+
+2.  Executive Director Transition Overview
+
+– Job descriptions for two project manager positions and fund raiser
+  have been drafted and circulated.
+
+3.  Personnel Overview
+
+– Shari provided an overview of personnel status.
+
+4. Finances
+
+– Shari went over 2017-2018 financials and proposed budget 2018-2019.
+
+– Went over future/upcoming Tor Budget for July 1 2018 to June 30
+  2019. Biggest change is an increase in salaries/benefits and to
+  accommodate new hires.
+
+– Approval of 2018-2019 budget: Megan moved the motion, Cindy
+  seconded, all voted in favor.
+
+RESOLVED:  2018-2019 budget approved.
+
+5. New Board Members
+
+– Cindy will be proceeding to follow up for inviting potential
+  candidate to Mexico City.
+
+Ramy left at 13:30
+
+6. Other Business
+
+– With feedback in place, Biella will be finishing finalization of
+  meetings minutes for release.
+
+Meeting Adjourned at 13:41 UTC
