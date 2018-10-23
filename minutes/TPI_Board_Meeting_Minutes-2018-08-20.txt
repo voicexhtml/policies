@@ -1,0 +1,59 @@
+﻿Tor Project Board Meeting Minutes for August 20, 2018
+
+Phone/Video Meeting called to order at 15:00 UTC
+
+Present: Shari Steele, Matt Blaze, Ramy Raoof, Cindy Cohn, Linus
+Nordberg, Biella Coleman, Nick Mathewson, Julius Mittenzwei, Megan
+Price, and Roger Dingledine
+
+1. Administrivia
+
+– Approval of June 20, 2018 minutes. Julius made the motion, Bruce
+  seconded, all voted in favor.
+
+RESOLVED: minutes from June 20, 2018 approved.
+
+2. Executive Director Transition Overview
+
+– To replace Isabela, two project managers have been hired.
+
+– Isabela will transition around mid-September and Shari will remain
+  as a consultant and join the board.
+
+4. Finances
+
+– Moved to add Isabela Bagueros to the bank account: “The board of
+  directors of the Tor Project, Inc., hereby authorizes Isabela
+  Bagueros to be added as a signatory on the organization's Bank of
+  America checking account #XXXXX.” Biella made the motion to add her
+  to the account, Ramy seconded, all voted in favor.
+
+RESOLVED: Incoming Executive Director, Isabela Bagueros added to the
+TPI. Bank of America account.
+
+– Shari explained that the Merrill Lynch cash securities account was
+  closed due to inactivity. She proposed we open it again and include
+  board members who had been previously added before via board vote as
+  signatories (Cindy Cohn and Biella Coleman) and add incoming ED,
+  Isabela Bagueros.
+
+– Cindy made the motion to add Biella Coleman, Isabela Bagueros, and
+  Cindy Cohn as indicated on the on the Merrill Lynch account board
+  book exhibit, Matt seconded, all voted in favor.
+
+– Shari went over grants, budget, pending grants and finances.
+
+– Shari explained that a number of grants still need to be billed and
+  the CFO, Sue Abt is working diligently on this matter and will have
+  more time to work on it once a book keeper is hired.
+
+5. New Board Members
+
+– Cindy and Ramy provided an update about current search for new board
+  members.
+
+6. Mexico Meeting
+
+– Discussion of board meeting logistics and format.
+
+Meeting Adjourned at 16:46 UTC.
